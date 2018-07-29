@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "normal": [
+      { "model": "cm:crystal_block" }
+    ]
+  }
+}

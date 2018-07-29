@@ -1,0 +1,14 @@
+
+//Items
+item.crystal.name=Crystal
+
+//Tools
+item.crystal_axe.name=Crystal Axe
+item.crystal_hoe.name=Crystal Hoe
+item.crystal_pickaxe.name=Crystal Pickaxe
+item.crystal_shovel.name=Crystal Shovel
+item.crystal_sword.name=Crystal Sword
+
+
+//Blocks
+tile.crystal_block.name=Crystal Block
